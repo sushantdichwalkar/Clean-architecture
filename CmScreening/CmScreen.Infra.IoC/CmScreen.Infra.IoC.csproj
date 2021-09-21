@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CmScreen.Application\CmScreen.Application.csproj" />
+    <ProjectReference Include="..\CmScreen.Infra.Data\CmScreen.Infra.Data.csproj" />
+    <ProjectReference Include="..\CmScreen.LoggerService\CmScreen.Infra.LoggerService.csproj" />
+  </ItemGroup>
+
+</Project>

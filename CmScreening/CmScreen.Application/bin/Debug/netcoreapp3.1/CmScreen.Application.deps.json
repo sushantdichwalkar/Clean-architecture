@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CmScreen.Application/1.0.0": {
+        "dependencies": {
+          "CmScreen.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CmScreen.Application.dll": {}
+        }
+      },
+      "CmScreen.Domain/1.0.0": {
+        "runtime": {
+          "CmScreen.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CmScreen.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CmScreen.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

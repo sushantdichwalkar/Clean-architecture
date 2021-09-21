@@ -1,0 +1,40 @@
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.deps.json
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfoInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfo.cs
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Application.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Domain.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.Data.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Application.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.Data.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Domain.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csprojAssemblyReference.cache
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csproj.CopyComplete
+Y:\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csprojAssemblyReference.cache
+Y:\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfoInputs.cache
+Y:\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfo.cs
+Y:\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.dll
+Y:\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.deps.json
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.IoC.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Application.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Domain.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.Data.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Application.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.Data.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\bin\Debug\netcoreapp3.1\CmScreen.Domain.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csprojAssemblyReference.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfoInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.AssemblyInfo.cs
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csproj.CoreCompileInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.csproj.CopyComplete
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.Infra.IoC\obj\Debug\netcoreapp3.1\CmScreen.Infra.IoC.pdb

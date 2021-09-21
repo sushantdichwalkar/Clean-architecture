@@ -1,0 +1,23 @@
+﻿@model CmScreen.Application.ViewModels.BookViewModel
+
+<table id="book" class="table table-bordered table-hover">
+    <thead>
+        <tr class="">
+            <th>Name</th>
+            <th>ISBN</th>
+            <th>Author First Name</th>
+            <th>Author Last Name</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var book in Model.Books)
+        {
+        <tr style="height: 60px;">
+            <td>@book.Name</td>
+            <td>@book.ISBN</td>
+            <td>@book.AuthorFirstName</td>
+            <td>@book.AuthorLastName</td>
+        </tr>
+        }
+    </tbody>
+</table>

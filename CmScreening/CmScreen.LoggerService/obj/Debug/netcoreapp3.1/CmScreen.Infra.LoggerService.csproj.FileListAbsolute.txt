@@ -1,0 +1,17 @@
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.deps.json
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.AssemblyInfoInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.AssemblyInfo.cs
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
+D:\Dropbox (eClerx Services Ltd.)\Pradeep\Architecture\CleanArchitecture\CmScreening\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.csprojAssemblyReference.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.deps.json
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\bin\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.csprojAssemblyReference.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.AssemblyInfoInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.AssemblyInfo.cs
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.csproj.CoreCompileInputs.cache
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.dll
+D:\Dropbox (eClerx Services Ltd.)\Projects\Clean Architecture_CMS\CmScreening\CmScreen.LoggerService\obj\Debug\netcoreapp3.1\CmScreen.Infra.LoggerService.pdb
